@@ -18,6 +18,22 @@
         </anim>
     </sprite>
     <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="1" fixedrot="true" fric="0.2" gid="3" id="0" ignoreg="true" inertia="1.0" ldamp="0.0" mass="1.0" name="Female Blue" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="1" static="false">
-        <snippets/>
+        <snippets>
+            <s enabled="true" id="2">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="1.0"/>
+                <prop id="2" list="0" val="2.0"/>
+                <prop id="3" list="0" val="1.0"/>
+                <prop id="4" list="0" val="2.0"/>
+                <prop id="5" list="0" val="true"/>
+                <prop id="6" list="0" val="10.0"/>
+                <prop id="9" list="0" val="false"/>
+                <prop id="10" list="0" val="false"/>
+                <prop id="11" list="0" val="5.0"/>
+                <prop id="13" list="0" val="true"/>
+                <prop id="20" list="0" val="0"/>
+                <prop id="21" list="0" val="0"/>
+            </s>
+        </snippets>
     </actor>
 </pack>
