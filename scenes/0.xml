@@ -9,11 +9,7 @@
     <regions/>
     <terrainRegions/>
     <actors>
-        <actor a="0.0" aid="1" c="false" group="3" id="0" name="Female Blue 1" sx="1.0" sy="1.0" x="83" y="136" z="1"/>
-        <actor a="0.0" aid="2" c="false" group="3" id="0" name="Female Blue 2" sx="1.0" sy="1.0" x="418" y="129" z="1"/>
-        <actor a="0.0" aid="3" c="false" group="3" id="0" name="Female Blue 3" sx="1.0" sy="1.0" x="294" y="216" z="1"/>
-        <actor a="0.0" aid="4" c="false" group="3" id="0" name="Female Blue 4" sx="1.0" sy="1.0" x="141" y="343" z="1"/>
-        <actor a="0.0" aid="5" c="false" group="3" id="0" name="Female Blue 5" sx="1.0" sy="1.0" x="512" y="373" z="1"/>
+        <actor a="0.0" aid="1" c="false" group="3" id="0" name="Female Blue 1" sx="1.0" sy="1.0" x="322" y="202" z="1"/>
     </actors>
     <snippets/>
     <terrain/>
