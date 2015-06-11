@@ -13,7 +13,6 @@
         <actor a="0.0" aid="1" c="false" group="5" id="0" name="Female Blue 1" sx="1.0" sy="1.0" x="322" y="202" z="1"/>
         <actor a="0.0" aid="3" c="false" group="5" id="0" name="Female Blue 3" sx="1.0" sy="1.0" x="243" y="282" z="1"/>
         <actor a="0.0" aid="4" c="false" group="5" id="0" name="Female Blue 4" sx="1.0" sy="1.0" x="380" y="112" z="1"/>
-        <actor a="0.0" aid="5" c="false" group="0" id="8" name="Player 5" sx="1.0" sy="1.0" x="610" y="451" z="3"/>
         <actor a="0.0" aid="6" c="false" group="5" id="2" name="Bunker Blue 6" sx="1.0" sy="1.0" x="387" y="426" z="1"/>
         <actor a="0.0" aid="7" c="false" group="5" id="2" name="Bunker Blue 7" sx="1.0" sy="1.0" x="388" y="377" z="1"/>
         <actor a="0.0" aid="8" c="false" group="5" id="2" name="Bunker Blue 8" sx="1.0" sy="1.0" x="389" y="327" z="1"/>

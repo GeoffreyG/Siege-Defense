@@ -45,21 +45,21 @@
             <poly data="4,0,0,16,0,16,19,0,19" density="0.1" fric="0.2" gid="-1000" id="0" name="Idle" rest="0.0" sensor="false"/>
         </anim>
     </sprite>
-    <sprite atlasID="0" default="4" defaultAnimation="4" desc="" height="19" id="9" name="Enemy 2" shared="false" width="16">
-        <anim across="4" down="1" durations="150,150,150,150" height="19" id="0" loop="true" name="Down" numframes="4" originx="8" originy="10" sync="false" version="1" width="64">
-            <poly data="4,0,0,16,0,16,20,0,20" density="0.1" fric="0.2" gid="-1000" id="0" name="Down" rest="0.0" sensor="false"/>
+    <sprite atlasID="0" default="4" defaultAnimation="4" desc="" height="78" id="9" name="Enemy 2" shared="false" width="73">
+        <anim across="2" down="2" durations="100,100,100,100" height="156" id="0" loop="true" name="Down" numframes="4" originx="8" originy="10" sync="false" version="2" width="106">
+            <poly data="4,0,0,53,0,53,78,0,78" density="0.1" fric="0.2" gid="-1000" id="0" name="Down" rest="0.0" sensor="false"/>
         </anim>
-        <anim across="4" down="1" durations="150,150,150,150" height="19" id="1" loop="true" name="Up" numframes="4" originx="8" originy="10" sync="false" version="1" width="64">
-            <poly data="4,0,0,16,0,16,20,0,20" density="0.1" fric="0.2" gid="-1000" id="0" name="Up" rest="0.0" sensor="false"/>
+        <anim across="2" down="2" durations="100,100,100,100" height="172" id="1" loop="true" name="Up" numframes="4" originx="8" originy="10" sync="false" version="2" width="106">
+            <poly data="4,0,0,53,0,53,86,0,86" density="0.1" fric="0.2" gid="-1000" id="0" name="Up" rest="0.0" sensor="false"/>
         </anim>
-        <anim across="4" down="1" durations="150,150,150,150" height="19" id="2" loop="true" name="Left" numframes="4" originx="7" originy="10" sync="false" version="1" width="56">
+        <anim across="1" down="1" durations="100" height="1" id="2" loop="true" name="Left" numframes="1" originx="7" originy="10" sync="false" version="2" width="1">
             <poly data="4,0,0,14,0,14,20,0,20" density="0.1" fric="0.2" gid="-1000" id="0" name="Left" rest="0.0" sensor="false"/>
         </anim>
-        <anim across="4" down="1" durations="150,150,150,150" height="19" id="3" loop="true" name="Right" numframes="4" originx="7" originy="10" sync="false" version="1" width="56">
-            <poly data="4,0,0,14,0,14,20,0,20" density="0.1" fric="0.2" gid="-1000" id="0" name="Right" rest="0.0" sensor="false"/>
+        <anim across="1" down="1" durations="100" height="1" id="3" loop="true" name="Right" numframes="1" originx="7" originy="10" sync="false" version="2" width="1">
+            <poly data="4,0,0,61,0,61,74,0,74" density="0.1" fric="0.2" gid="-1000" id="0" name="Right" rest="0.0" sensor="false"/>
         </anim>
-        <anim across="1" down="1" durations="100" height="19" id="4" loop="true" name="Idle" numframes="1" originx="8" originy="9" sync="false" version="1" width="16">
-            <poly data="4,0,0,16,0,16,19,0,19" density="0.1" fric="0.2" gid="-1000" id="0" name="Idle" rest="0.0" sensor="false"/>
+        <anim across="3" down="2" durations="100,100,100,100,100,100" height="156" id="4" loop="true" name="Idle" numframes="6" originx="36" originy="39" sync="false" version="2" width="219">
+            <poly data="4,0,0,73,0,73,78,0,78" density="0.1" fric="0.2" gid="-1000" id="0" name="Idle" rest="0.0" sensor="false"/>
         </anim>
     </sprite>
     <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="1" fixedrot="true" fric="0.2" gid="5" id="0" ignoreg="true" inertia="1.0" ldamp="0.0" mass="1.0" name="Female Blue" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="1" static="false">
@@ -112,30 +112,8 @@
             <s enabled="true" id="18">
                 <prop id="2147483647" list="0" val="thisactor"/>
             </s>
-            <s enabled="true" id="20">
+            <s enabled="true" id="21">
                 <prop id="2147483647" list="0" val="thisactor"/>
-                <prop id="32" list="0" val="down"/>
-                <prop id="33" list="0" val="left"/>
-                <prop id="34" list="0" val="right"/>
-                <prop id="38" list="0" val="0.0"/>
-                <prop id="39" list="0" val="0.0"/>
-                <prop id="40" list="0" val="true"/>
-                <prop id="11" list="0" val="30.0"/>
-                <prop id="44" list="0" val="false"/>
-                <prop id="45" list="0" val="true"/>
-                <prop id="46" list="0" val="true"/>
-                <prop id="47" list="0" val="false"/>
-                <prop id="49" list="0" val="false"/>
-                <prop id="50" list="0" val="Up"/>
-                <prop id="51" list="0" val="Up"/>
-                <prop id="52" list="0" val="Down"/>
-                <prop id="53" list="0" val="Down"/>
-                <prop id="54" list="0" val="Left"/>
-                <prop id="55" list="0" val="Left"/>
-                <prop id="56" list="0" val="Right"/>
-                <prop id="57" list="0" val="Right"/>
-                <prop id="58" list="0" val="true"/>
-                <prop id="31" list="0" val="up"/>
             </s>
             <s enabled="true" id="15">
                 <prop id="2147483647" list="0" val="thisactor"/>
