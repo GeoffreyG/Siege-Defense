@@ -1,0 +1,15 @@
+#
+#Thu Jun 11 17:48:26 BST 2015
+style=bold
+alphabet=
+color=\#ff0000
+shadow.y=0
+family=SansSerif
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=0
+shadow.blur=0
+chars=simple
+stroke.size=0
+antialias=true
+size=20

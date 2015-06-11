@@ -68,30 +68,19 @@ import com.stencyl.graphics.shaders.BloomShader;
 
 
 
-class Design_16_16_FireBullet extends ActorScript
+class ActorEvents_8 extends ActorScript
 {          	
 	
  
  	public function new(dummy:Int, actor:Actor, dummy2:Engine)
 	{
 		super(actor);
-		nameMap.set("Actor", "actor");
-
+		
 	}
 	
 	override public function init()
 	{
-		    
-/* ======================= Every N seconds ======================== */
-runPeriodically(1000 * 5, function(timeTask:TimedTask):Void
-{
-if(wrapper.enabled)
-{
-        createRecycledActor(getActorType(10), actor.getXCenter(), actor.getYCenter(), Script.MIDDLE);
-        getLastCreatedActor().applyImpulse(randomInt(Math.floor(-1), Math.floor(1)), randomInt(Math.floor(-1), Math.floor(1)), 25);
-}
-}, actor);
-
+		
 	}	      	
 	
 	override public function forwardMessage(msg:String)

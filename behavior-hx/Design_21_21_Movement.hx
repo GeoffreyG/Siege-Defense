@@ -68,26 +68,52 @@ import com.stencyl.graphics.shaders.BloomShader;
 
 
 
-class ActorEvents_2 extends ActorScript
+class Design_21_21_Movement extends ActorScript
 {          	
 	
-public var _RegionRadius:Float;
-
-public var _Region:Region;
-
  
  	public function new(dummy:Int, actor:Actor, dummy2:Engine)
 	{
 		super(actor);
-		nameMap.set("Region Radius", "_RegionRadius");
-_RegionRadius = 0.0;
-nameMap.set("Region", "_Region");
+		nameMap.set("Actor", "actor");
 
 	}
 	
 	override public function init()
 	{
-		
+		    
+/* ======================== When Updating ========================= */
+addWhenUpdatedListener(null, function(elapsedTime:Float, list:Array<Dynamic>):Void
+{
+if(wrapper.enabled)
+{
+        if(isKeyPressed("up"))
+{
+            actor.setXVelocity(0);
+            actor.setYVelocity(-10);
+}
+
+        else if(isKeyPressed("down"))
+{
+            actor.setXVelocity(0);
+            actor.setYVelocity(10);
+}
+
+        else if(isKeyPressed("left"))
+{
+            actor.setYVelocity(0);
+            actor.setXVelocity(-10);
+}
+
+        else if(isKeyPressed("right"))
+{
+            actor.setYVelocity(0);
+            actor.setXVelocity(10);
+}
+
+}
+});
+
 	}	      	
 	
 	override public function forwardMessage(msg:String)
