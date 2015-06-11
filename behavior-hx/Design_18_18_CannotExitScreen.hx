@@ -68,19 +68,55 @@ import com.stencyl.graphics.shaders.BloomShader;
 
 
 
-class ActorEvents_8 extends ActorScript
+class Design_18_18_CannotExitScreen extends ActorScript
 {          	
 	
  
  	public function new(dummy:Int, actor:Actor, dummy2:Engine)
 	{
 		super(actor);
-		
+		nameMap.set("Actor", "actor");
+
 	}
 	
 	override public function init()
 	{
-		
+		    
+/* ======================== When Creating ========================= */
+        actor.makeAlwaysSimulate();
+    
+/* ======================== When Updating ========================= */
+addWhenUpdatedListener(null, function(elapsedTime:Float, list:Array<Dynamic>):Void
+{
+if(wrapper.enabled)
+{
+        if((actor.getScreenX() < 0))
+{
+            actor.setX(getScreenX());
+            actor.setXVelocity(0);
+}
+
+        if((actor.getScreenY() < 0))
+{
+            actor.setY(getScreenY());
+            actor.setYVelocity(0);
+}
+
+        if(((actor.getScreenX() + (actor.getWidth())) > getScreenWidth()))
+{
+            actor.setX((getScreenX() + (getScreenWidth() - (actor.getWidth()))));
+            actor.setXVelocity(0);
+}
+
+        if(((actor.getScreenY() + (actor.getHeight())) > getScreenHeight()))
+{
+            actor.setY((getScreenY() + (getScreenHeight() - (actor.getHeight()))));
+            actor.setYVelocity(0);
+}
+
+}
+});
+
 	}	      	
 	
 	override public function forwardMessage(msg:String)

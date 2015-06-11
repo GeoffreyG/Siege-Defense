@@ -82,15 +82,15 @@ class Design_16_16_FireBullet extends ActorScript
 	override public function init()
 	{
 		    
-/* =========================== Keyboard =========================== */
-addKeyStateListener("enter", function(pressed:Bool, released:Bool, list:Array<Dynamic>):Void
+/* ======================= Every N seconds ======================== */
+runPeriodically(1000 * 5, function(timeTask:TimedTask):Void
 {
-if(wrapper.enabled && pressed)
+if(wrapper.enabled)
 {
         createRecycledActor(getActorType(10), actor.getXCenter(), actor.getYCenter(), Script.MIDDLE);
-        getLastCreatedActor().push(randomInt(Math.floor(-1), Math.floor(1)), randomInt(Math.floor(-1), Math.floor(1)), 500);
+        getLastCreatedActor().applyImpulse(randomInt(Math.floor(-1), Math.floor(1)), randomInt(Math.floor(-1), Math.floor(1)), 25);
 }
-});
+}, actor);
 
 	}	      	
 	

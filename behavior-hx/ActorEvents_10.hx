@@ -81,15 +81,6 @@ class ActorEvents_10 extends ActorScript
 	override public function init()
 	{
 		    
-/* ======================== Actor of Type ========================= */
-addCollisionListener(actor, function(event:Collision, list:Array<Dynamic>):Void
-{
-if(wrapper.enabled && sameAsAny(getActorType(8), event.otherActor.getType(),event.otherActor.getGroup()))
-{
-        recycleActor(actor);
-}
-});
-    
 /* ======================== Specific Actor ======================== */
 addActorPositionListener(actor, function(enteredScreen:Bool, exitedScreen:Bool, enteredScene:Bool, exitedScene:Bool, list:Array<Dynamic>):Void
 {
