@@ -24,10 +24,58 @@
             <poly data="4,0,0,48,0,48,48,0,48" density="0.1" fric="0.2" gid="-1000" id="0" name="Default" rest="0.0" sensor="false"/>
         </anim>
     </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="36" fixedrot="false" fric="0.2" gid="6" id="37" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Castle 3" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="38" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="256" id="38" name="Castle 3" shared="false" width="256">
+        <anim across="1" down="1" durations="100" height="256" id="0" loop="true" name="Animation 0" numframes="1" originx="128" originy="128" sync="false" version="2" width="256">
+            <poly data="4,62,40,192,40,192,210,62,210" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="34" fixedrot="false" fric="0.2" gid="6" id="33" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Castle1" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="34" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="256" id="34" name="Castle1" shared="false" width="256">
+        <anim across="1" down="1" durations="100" height="256" id="0" loop="true" name="Animation 0" numframes="1" originx="128" originy="128" sync="false" version="2" width="256">
+            <poly data="4,82,115,172,115,172,205,82,205" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="35" fixedrot="false" fric="0.2" gid="6" id="35" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Castle2" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="36" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="256" id="36" name="Castle2" shared="false" width="256">
+        <anim across="1" down="1" durations="100" height="256" id="0" loop="true" name="Animation 0" numframes="1" originx="128" originy="128" sync="false" version="2" width="256">
+            <poly data="4,68,82,188,82,188,202,68,202" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="37" fixedrot="false" fric="0.2" gid="6" id="39" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Castle4" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="40" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="256" id="40" name="Castle4" shared="false" width="256">
+        <anim across="1" down="1" durations="100" height="256" id="0" loop="true" name="Animation 0" numframes="1" originx="128" originy="128" sync="false" version="2" width="256">
+            <poly data="4,62,40,192,40,192,210,62,210" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="39" fixedrot="false" fric="0.2" gid="6" id="43" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Chest" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="44" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="40" id="44" name="Chest" shared="false" width="40">
+        <anim across="1" down="1" durations="100" height="40" id="0" loop="true" name="Animation 0" numframes="1" originx="20" originy="20" sync="false" version="2" width="40">
+            <poly data="4,0,0,40,0,40,40,0,40" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
     <custom-block blocktag="custom-16" blocktype="ACTION" code="~.say(&quot;Health Manager&quot;, &quot;_customBlock_Damage&quot;, [~]);" desc="Subtracts a specific amount of health from the Actor." global="false" gui="Damage %0 By %1" id="16" message="Damage" name="Damage" oid="-1" return="VOID" shared="false" snippetID="15">
         <blank name="Self" order="0" type="ACTOR"/>
         <blank name="Amount" order="1" type="NUMBER"/>
     </custom-block>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="31" fixedrot="false" fric="0.2" gid="6" id="25" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Diamonds" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="26" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="38" id="26" name="Diamonds" shared="false" width="38">
+        <anim across="1" down="1" durations="100" height="38" id="0" loop="true" name="Animation 0" numframes="1" originx="19" originy="19" sync="false" version="2" width="38">
+            <poly data="4,0,0,38,0,38,38,0,38" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
     <sprite atlasID="0" default="4" defaultAnimation="4" desc="" height="19" id="1" name="Enemy 2" shared="false" width="16">
         <anim across="4" down="1" durations="150,150,150,150" height="19" id="0" loop="true" name="Down" numframes="4" originx="8" originy="10" sync="false" version="1" width="64">
             <poly data="4,0,0,16,0,16,20,0,20" density="0.1" fric="0.2" gid="-1000" id="0" name="Down" rest="0.0" sensor="false"/>
@@ -90,6 +138,14 @@
     <custom-block blocktag="custom-14" blocktype="ACTION" code="~.say(&quot;Health Manager&quot;, &quot;_customBlock_FullRestore&quot;);" desc="" global="false" gui="Restore %0 To Full Health" id="14" message="FullRestore" name="FullRestore" oid="-1" return="VOID" shared="false" snippetID="15">
         <blank name="Self" order="0" type="ACTOR"/>
     </custom-block>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="28" fixedrot="false" fric="0.2" gid="6" id="23" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Game end" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="24" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="61" id="24" name="Game end" shared="false" width="50">
+        <anim across="1" down="1" durations="100" height="61" id="0" loop="true" name="Animation 0" numframes="1" originx="25" originy="30" sync="false" version="2" width="50">
+            <poly data="4,0,0,50,0,50,61,0,61" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
     <custom-block blocktag="custom-19" blocktype="NORMAL" code="cast((~.say(&quot;Health Manager&quot;, &quot;_customBlock_GetCurrentHealth&quot;)), Float)" desc="" global="false" gui="Current Health for %0" id="19" message="GetCurrentHealth" name="GetCurrentHealth" oid="-1" return="NUMBER" shared="false" snippetID="15">
         <blank name="Self" order="0" type="ACTOR"/>
     </custom-block>
@@ -103,12 +159,40 @@
         <blank name="Self" order="0" type="ACTOR"/>
         <blank name="Amount" order="1" type="NUMBER"/>
     </custom-block>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="33" fixedrot="false" fric="0.2" gid="6" id="29" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Jade" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="30" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="38" id="30" name="Jade" shared="false" width="38">
+        <anim across="1" down="1" durations="100" height="38" id="0" loop="true" name="Animation 0" numframes="1" originx="19" originy="19" sync="false" version="2" width="38">
+            <poly data="4,0,0,38,0,38,38,0,38" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="40" fixedrot="false" fric="0.2" gid="6" id="45" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Leaderboard" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="46" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="80" id="46" name="Leaderboard" shared="false" width="80">
+        <anim across="1" down="1" durations="100" height="80" id="0" loop="true" name="Animation 0" numframes="1" originx="40" originy="40" sync="false" version="2" width="80">
+            <poly data="4,0,0,80,0,80,80,0,80" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="27" fixedrot="false" fric="0.2" gid="6" id="21" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Level End" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="22" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="46" id="22" name="Level End" shared="false" width="46">
+        <anim across="1" down="1" durations="100" height="46" id="0" loop="true" name="Animation 0" numframes="1" originx="23" originy="23" sync="false" version="2" width="46">
+            <poly data="4,0,0,46,0,46,46,0,46" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="32" fixedrot="false" fric="0.2" gid="6" id="27" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Onyx" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="28" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="38" id="28" name="Onyx" shared="false" width="38">
+        <anim across="1" down="1" durations="100" height="38" id="0" loop="true" name="Animation 0" numframes="1" originx="19" originy="19" sync="false" version="2" width="38">
+            <poly data="4,0,0,38,0,38,38,0,38" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
     <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="7" fixedrot="true" fric="0.2" gid="0" id="8" ignoreg="true" inertia="1.0" ldamp="0.0" mass="1.0" name="Player" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="9" static="false">
         <snippets>
-            <s enabled="true" id="17">
-                <prop id="2147483647" list="0" val="thisactor"/>
-                <prop id="1" list="0" val="30"/>
-            </s>
             <s enabled="true" id="18">
                 <prop id="2147483647" list="0" val="thisactor"/>
             </s>
@@ -137,9 +221,9 @@
                 <prop id="11" list="0" val="false"/>
                 <prop id="12" list="0" val="-1"/>
                 <prop id="13" list="0" val=""/>
-                <prop id="14" list="0" val="-1"/>
-                <prop id="15" list="0" val="-1"/>
-                <prop id="16" list="0" val="-1"/>
+                <prop id="14" list="0" val="No Sound"/>
+                <prop id="15" list="0" val="No Sound"/>
+                <prop id="16" list="0" val="No Sound"/>
                 <prop id="17" list="0" val="false"/>
                 <prop id="18" list="0" val="0.0"/>
                 <prop id="19" list="0" val="0.0"/>
@@ -173,5 +257,13 @@
         <blank name="Self" order="0" type="ACTOR"/>
         <blank name="Status" order="1" type="BOOLEAN"/>
     </custom-block>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="40" id="42" name="Star tIcon" shared="false" width="40">
+        <anim across="1" down="1" durations="100" height="40" id="0" loop="true" name="Animation 0" numframes="1" originx="20" originy="20" sync="false" version="2" width="40">
+            <poly data="4,0,0,40,0,40,40,0,40" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="38" fixedrot="false" fric="0.2" gid="6" id="41" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Start Icon" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="42" static="true">
+        <snippets/>
+    </actor>
     <font alphabet=" !&quot;#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſ" atlasID="0" desc="" height="58" id="20" name="Timer" offsets="0|0|0|,7|0|7,11|0|11,19|0|19,32|0|32,42|0|42,58|0|58,73|0|73,77|0|77,83|0|83,89|0|89,98|0|98,110|0|110,114|0|114,124|0|124,128|0|128,136|0|136,148|0|148,158|0|158,169|0|169,179|0|179,190|0|190,200|0|200,211|0|211,222|0|222,233|0|233,245|0|245,248|0|248,251|0|251,263|0|263,275|0|275,287|0|287,297|0|297,314|0|314,329|0|329,340|0|340,354|0|354,368|0|368,379|0|379,389|0|389,403|0|403,416|0|416,420|0|420,428|0|428,441|0|441,452|0|452,468|0|468,481|0|481,497|0|497,508|0|508,526|0|526,539|0|539,549|0|549,563|0|563,575|0|575,589|0|589,607|0|607,620|0|620,634|0|634,645|0|645,651|0|651,659|0|659,664|0|664,677|0|677,687|0|687,693|0|693,705|0|705,717|0|717,727|0|727,739|0|739,750|0|750,759|0|759,771|0|771,782|0|782,786|0|786,793|0|793,805|0|805,809|0|809,826|0|826,837|0|837,849|0|849,861|0|861,873|0|873,881|0|881,890|0|890,898|0|898,909|0|909,921|0|921,938|0|938,950|0|950,962|0|962,972|0|972,978|0|978,980|0|980,986|0|986,998|0|998,1006|0|1006,1026|0|1026,1046|0|1046,1066|0|1066,1086|0|1086,1106|0|1106,1126|0|1126,1146|0|1146,1166|0|1166,1186|0|1186,1206|0|1206,1226|0|1226,1246|0|1246,1266|0|1266,1286|0|1286,1306|0|1306,1326|0|1326,1346|0|1346,1366|0|1366,1386|0|1386,1406|0|1406,1426|0|1426,1446|0|1446,1466|0|1466,1486|0|1486,1506|0|1506,1526|0|1526,1546|0|1546,1566|0|1566,1586|0|1586,1606|0|1606,1626|0|1626,1646|0|1646,1653|0|1653,1657|0|1657,1667|0|1667,1677|0|1677,1689|0|1689,1702|0|1702,1704|0|1704,1714|0|1714,1721|0|1721,1737|0|1737,1745|0|1745,1755|0|1755,1767|0|1767,1777|0|1777,1793|0|1793,1803|0|1803,1810|0|1810,1822|0|1822,1829|0|1829,1836|0|1836,1842|0|1842,1853|0|1853,1863|0|1863,1867|0|1867,1872|0|1872,1880|0|1880,1888|0|1888,1899|0|1899,1916|0|1916,1934|0|1934,1951|0|1951,1961|0|1961,1976|0|1976,1991|0|1991,2006|0|2006,2021|0|2021,2036|0|2036,2051|0|2051,2070|0|2070,2084|0|2084,2095|0|2095,2106|0|2106,2117|0|2117,2128|0|2128,2134|0|2134,2140|0|2140,2148|0|2148,2155|0|2155,2170|0|2170,2183|0|2183,2199|0|2199,2215|0|2215,2231|0|2231,2247|0|2247,2263|0|2263,2275|0|2275,2291|0|2291,2303|0|2303,2315|0|2315,2327|0|2327,2339|0|2339,2353|0|2353,2364|0|2364,2376|0|2376,2388|0|2388,2400|0|2400,2412|0|2412,2424|0|2424,2436|0|2436,2448|0|2448,2465|0|2465,2475|0|2475,2486|0|2486,2497|0|2497,2508|0|2508,2519|0|2519,2525|0|2525,2531|0|2531,2539|0|2539,2546|0|2546,2558|0|2558,2569|0|2569,2581|0|2581,2593|0|2593,2605|0|2605,2617|0|2617,2629|0|2629,2641|0|2641,2653|0|2653,2664|0|2664,2675|0|2675,2686|0|2686,2697|0|2697,2709|0|2709,2721|0|2721,2733|0|2733,2748|0|2748,2760|0|2760,2775|0|2775,2787|0|2787,2802|0|2802,2814|0|2814,2828|0|2828,2838|0|2838,2852|0|2852,2862|0|2862,0|29|2876,10|29|2886,24|29|2900,35|29|2911,49|29|2925,65|29|2941,80|29|2956,94|29|2970,105|29|2981,116|29|2992,127|29|3003,138|29|3014,149|29|3025,160|29|3036,171|29|3047,182|29|3058,193|29|3069,204|29|3080,218|29|3094,230|29|3106,244|29|3120,256|29|3132,270|29|3146,282|29|3158,296|29|3172,308|29|3184,321|29|3197,332|29|3208,349|29|3225,361|29|3237,369|29|3245,377|29|3253,385|29|3261,393|29|3269,401|29|3277,409|29|3285,414|29|3290,419|29|3295,423|29|3299,427|29|3303,439|29|3315,450|29|3326,460|29|3336,470|29|3346,483|29|3359,495|29|3371,507|29|3383,518|29|3394,524|29|3400,535|29|3411,539|29|3415,550|29|3426,559|29|3435,570|29|3446,579|29|3455,591|29|3467,599|29|3475,612|29|3488,623|29|3499,636|29|3512,647|29|3523,660|29|3536,671|29|3547,685|29|3561,698|29|3574,709|29|3585,725|29|3601,737|29|3613,753|29|3629,765|29|3641,781|29|3657,794|29|3670,815|29|3691,833|29|3709,846|29|3722,854|29|3730,867|29|3743,875|29|3751,888|29|3764,896|29|3772,906|29|3782,915|29|3791,925|29|3801,934|29|3810,944|29|3820,953|29|3829,963|29|3839,972|29|3848,986|29|3862,994|29|3870,1008|29|3884,1017|29|3893,1031|29|3907,1039|29|3915,1051|29|3927,1062|29|3938,1074|29|3950,1085|29|3961,1097|29|3973,1108|29|3984,1120|29|3996,1131|29|4007,1144|29|4020,1155|29|4031,1167|29|4043,1178|29|4054,1196|29|4072,1213|29|4089,1227|29|4103,1239|29|4115,1253|29|4129,1264|29|4140,1274|29|4150,1285|29|4161,1295|29|4171,1306|29|4182,1316|29|4192" oid="-1" prerendered="false" rowHeight="29" shared="false"/>
 </pack>

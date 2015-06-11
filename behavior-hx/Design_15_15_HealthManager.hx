@@ -460,6 +460,7 @@ if(wrapper.enabled)
         if((_CurrentHealth <= 0))
 {
             recycleActor(actor);
+            switchScene(GameModel.get().scenes.get(4).getID(), null, createCrossfadeTransition(0.3));
 }
 
 }

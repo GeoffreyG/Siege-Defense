@@ -90,25 +90,25 @@ if(wrapper.enabled)
         if(isKeyPressed("up"))
 {
             actor.setXVelocity(0);
-            actor.setYVelocity(-10);
+            actor.setYVelocity(-15);
 }
 
         else if(isKeyPressed("down"))
 {
             actor.setXVelocity(0);
-            actor.setYVelocity(10);
+            actor.setYVelocity(15);
 }
 
         else if(isKeyPressed("left"))
 {
             actor.setYVelocity(0);
-            actor.setXVelocity(-10);
+            actor.setXVelocity(-15);
 }
 
         else if(isKeyPressed("right"))
 {
             actor.setYVelocity(0);
-            actor.setXVelocity(10);
+            actor.setXVelocity(15);
 }
 
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<scene depth="3" desc="" eventsnippetid="0" extheight="544" extwidth="704" extx="-32" exty="-32" format="3.3.0" gravx="-0.0" gravy="0.0" height="480" id="0" name="Level 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+<scene depth="3" desc="" eventsnippetid="0" extheight="1024" extwidth="1344" extx="-32" exty="-32" format="3.3.0" gravx="-0.0" gravy="0.0" height="960" id="0" name="Level 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1280">
     <layers>
         <color-bg blue="204" green="255" red="204"/>
         <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Background" opacity="100" order="2" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
@@ -8,27 +8,25 @@
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="49" id="0" name="Region 0" pts="4,67.0,0.0,67.0,49.0,0.0,49.0,0.0,0.0" r="64" type="box" w="67" x="18" y="37"/>
+        <region b="64" g="64" h="50" id="0" name="Transition 1" pts="4,-25.0,25.0,25.0,25.0,25.0,-25.0,-25.0,-25.0" r="64" type="box" w="50" x="168" y="19"/>
     </regions>
     <terrainRegions/>
     <actors>
-        <actor a="0.0" aid="7" c="false" group="5" id="2" name="Bunker Blue 7" sx="1.0" sy="1.0" x="388" y="271" z="1"/>
-        <actor a="0.0" aid="10" c="false" group="5" id="2" name="Bunker Blue 10" sx="1.0" sy="1.0" x="390" y="223" z="1"/>
-        <actor a="0.0" aid="11" c="false" group="5" id="2" name="Bunker Blue 11" sx="1.0" sy="1.0" x="245" y="210" z="1"/>
-        <actor a="0.0" aid="12" c="false" group="5" id="2" name="Bunker Blue 12" sx="1.0" sy="1.0" x="190" y="211" z="1"/>
-        <actor a="0.0" aid="16" c="false" group="5" id="2" name="Bunker Blue 16" sx="1.0" sy="1.0" x="137" y="108" z="1"/>
+        <actor a="0.0" aid="16" c="false" group="5" id="2" name="Bunker Blue 16" sx="1.0" sy="1.0" x="603" y="176" z="1"/>
         <actor a="0.0" aid="19" c="false" group="5" id="0" name="Female Blue 19" sx="1.0" sy="1.0" x="519" y="62" z="1"/>
-        <actor a="0.0" aid="20" c="false" group="5" id="0" name="Female Blue 20" sx="1.0" sy="1.0" x="156" y="41" z="1"/>
-        <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="559" y="389" z="3"/>
+        <actor a="0.0" aid="20" c="false" group="5" id="0" name="Female Blue 20" sx="1.0" sy="1.0" x="638" y="129" z="1"/>
+        <actor a="0.0" aid="7" c="false" group="5" id="2" name="Bunker Blue 7" sx="1.0" sy="1.0" x="388" y="271" z="1"/>
+        <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="1149" y="856" z="3"/>
+        <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="172" y="22" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="5" id="2" name="Bunker Blue 10" sx="1.0" sy="1.0" x="390" y="223" z="1"/>
+        <actor a="0.0" aid="11" c="false" group="5" id="2" name="Bunker Blue 11" sx="1.0" sy="1.0" x="528" y="176" z="1"/>
+        <actor a="0.0" aid="12" c="false" group="5" id="2" name="Bunker Blue 12" sx="1.0" sy="1.0" x="456" y="177" z="1"/>
     </actors>
     <snippets>
         <s enabled="true" id="23">
             <prop id="1" list="0" val="24"/>
             <prop id="2" list="0" val="0"/>
             <prop id="3" list="0" val="1"/>
-        </s>
-        <s enabled="true" id="24">
-            <prop id="1" list="0" val="30.0"/>
         </s>
     </snippets>
     <terrain/>

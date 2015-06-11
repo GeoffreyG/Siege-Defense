@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="2" desc="" eventsnippetid="29" extheight="1024" extwidth="1344" extx="-32" exty="-32" format="3.3.0" gravx="-0.0" gravy="0.0" height="960" id="4" name="Start" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1280">
+    <layers>
+        <grad-bg b1="255" b2="0" g1="102" g2="153" r1="51" r2="255"/>
+        <layer blendMode="normal" color="0,0,0" id="0" locked="false" name="Background" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="1" locked="false" name="Player" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="74" id="0" name="Region 0" pts="4,-37.5,37.5,37.5,37.5,37.5,-37.5,-37.5,-37.5" r="64" type="box" w="74" x="1132" y="18"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="3" c="false" group="6" id="33" name="Castle1 3" sx="1.0" sy="1.0" x="203" y="552" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="6" id="33" name="Castle1 4" sx="1.0" sy="1.0" x="395" y="439" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="6" id="33" name="Castle1 5" sx="1.0" sy="1.0" x="111" y="504" z="0"/>
+        <actor a="0.0" aid="7" c="false" group="6" id="33" name="Castle1 7" sx="1.0" sy="1.0" x="298" y="596" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="6" id="33" name="Castle1 8" sx="1.0" sy="1.0" x="402" y="541" z="0"/>
+        <actor a="0.0" aid="9" c="false" group="6" id="33" name="Castle1 9" sx="1.0" sy="1.0" x="7" y="471" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="6" id="33" name="Castle1 10" sx="1.0" sy="1.0" x="782" y="-64" z="0"/>
+        <actor a="0.0" aid="11" c="false" group="6" id="33" name="Castle1 11" sx="1.0" sy="1.0" x="702" y="27" z="0"/>
+        <actor a="0.0" aid="12" c="false" group="6" id="33" name="Castle1 12" sx="1.0" sy="1.0" x="667" y="-86" z="0"/>
+        <actor a="0.0" aid="14" c="false" group="6" id="33" name="Castle1 14" sx="1.0" sy="1.0" x="985" y="619" z="0"/>
+        <actor a="0.0" aid="15" c="false" group="6" id="33" name="Castle1 15" sx="1.0" sy="1.0" x="887" y="545" z="0"/>
+        <actor a="0.0" aid="16" c="false" group="6" id="33" name="Castle1 16" sx="1.0" sy="1.0" x="971" y="498" z="0"/>
+        <actor a="0.0" aid="17" c="false" group="6" id="33" name="Castle1 17" sx="1.0" sy="1.0" x="1067" y="549" z="0"/>
+        <actor a="0.0" aid="18" c="false" group="6" id="35" name="Castle2 18" sx="1.0" sy="1.0" x="289" y="467" z="0"/>
+        <actor a="0.0" aid="19" c="false" group="6" id="35" name="Castle2 19" sx="1.0" sy="1.0" x="580" y="-1" z="0"/>
+        <actor a="0.0" aid="20" c="false" group="6" id="35" name="Castle2 20" sx="1.0" sy="1.0" x="1078" y="452" z="0"/>
+        <actor a="0.0" aid="21" c="false" group="0" id="8" name="Player 21" sx="1.0" sy="1.0" x="657" y="794" z="1"/>
+        <actor a="0.0" aid="22" c="false" group="6" id="41" name="Start Icon 22" sx="1.0" sy="1.0" x="1152" y="32" z="0"/>
+        <actor a="0.0" aid="23" c="false" group="6" id="43" name="Chest 23" sx="1.0" sy="1.0" x="102" y="845" z="0"/>
+        <actor a="0.0" aid="24" c="false" group="6" id="45" name="Leaderboard 24" sx="1.0" sy="1.0" x="83" y="746" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="23">
+            <prop id="1" list="0" val="21"/>
+            <prop id="2" list="0" val="0"/>
+            <prop id="3" list="0" val="0"/>
+        </s>
+    </snippets>
+    <terrain/>
+    <atlases members="0,1,2,3," retainAtlases="false"/>
+</scene>

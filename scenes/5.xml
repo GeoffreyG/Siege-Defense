@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="2" desc="" eventsnippetid="30" extheight="1024" extwidth="1344" extx="-32" exty="-32" format="3.3.0" gravx="-0.0" gravy="0.0" height="960" id="5" name="End" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1280">
+    <layers>
+        <grad-bg b1="255" b2="153" g1="153" g2="255" r1="204" r2="255"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Background" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="1" locked="false" name="Player" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="180" id="0" name="Region 0" pts="4,-90.0,90.0,90.0,90.0,90.0,-90.0,-90.0,-90.0" r="64" type="box" w="180" x="584" y="37"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="2" c="false" group="6" id="25" name="Diamonds 2" sx="1.0" sy="1.0" x="228" y="456" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="6" id="25" name="Diamonds 3" sx="1.0" sy="1.0" x="187" y="423" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="6" id="25" name="Diamonds 5" sx="1.0" sy="1.0" x="264" y="421" z="0"/>
+        <actor a="0.0" aid="6" c="false" group="6" id="25" name="Diamonds 6" sx="1.0" sy="1.0" x="295" y="385" z="0"/>
+        <actor a="359.029" aid="7" c="false" group="6" id="25" name="Diamonds 7" sx="1.0" sy="1.0" x="154" y="384" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="6" id="25" name="Diamonds 8" sx="1.0" sy="1.0" x="185" y="351" z="0"/>
+        <actor a="0.0" aid="9" c="false" group="6" id="25" name="Diamonds 9" sx="1.0" sy="1.0" x="263" y="351" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="6" id="25" name="Diamonds 10" sx="1.0" sy="1.0" x="223" y="313" z="0"/>
+        <actor a="0.0" aid="11" c="false" group="6" id="27" name="Onyx 11" sx="1.0" sy="1.0" x="651" y="451" z="0"/>
+        <actor a="0.0" aid="12" c="false" group="6" id="27" name="Onyx 12" sx="1.0" sy="1.0" x="590" y="450" z="0"/>
+        <actor a="0.0" aid="13" c="false" group="6" id="27" name="Onyx 13" sx="1.0" sy="1.0" x="712" y="449" z="0"/>
+        <actor a="0.0" aid="14" c="false" group="6" id="27" name="Onyx 14" sx="1.0" sy="1.0" x="717" y="393" z="0"/>
+        <actor a="0.0" aid="16" c="false" group="6" id="27" name="Onyx 16" sx="1.0" sy="1.0" x="593" y="391" z="0"/>
+        <actor a="0.0" aid="17" c="false" group="6" id="27" name="Onyx 17" sx="1.0" sy="1.0" x="596" y="329" z="0"/>
+        <actor a="0.0" aid="18" c="false" group="6" id="27" name="Onyx 18" sx="1.0" sy="1.0" x="653" y="329" z="0"/>
+        <actor a="0.0" aid="19" c="false" group="6" id="27" name="Onyx 19" sx="1.0" sy="1.0" x="717" y="331" z="0"/>
+        <actor a="0.0" aid="20" c="false" group="6" id="29" name="Jade 20" sx="1.0" sy="1.0" x="1008" y="303" z="0"/>
+        <actor a="0.0" aid="21" c="false" group="6" id="29" name="Jade 21" sx="1.0" sy="1.0" x="985" y="362" z="0"/>
+        <actor a="0.0" aid="23" c="false" group="6" id="29" name="Jade 23" sx="1.0" sy="1.0" x="1001" y="427" z="0"/>
+        <actor a="0.0" aid="24" c="false" group="6" id="29" name="Jade 24" sx="1.0" sy="1.0" x="1072" y="446" z="0"/>
+        <actor a="0.0" aid="26" c="false" group="6" id="29" name="Jade 26" sx="1.0" sy="1.0" x="1136" y="417" z="0"/>
+        <actor a="0.0" aid="27" c="false" group="6" id="29" name="Jade 27" sx="1.0" sy="1.0" x="1153" y="358" z="0"/>
+        <actor a="0.0" aid="28" c="false" group="6" id="29" name="Jade 28" sx="1.0" sy="1.0" x="1126" y="310" z="0"/>
+        <actor a="0.0" aid="29" c="false" group="6" id="29" name="Jade 29" sx="1.0" sy="1.0" x="1072" y="288" z="0"/>
+        <actor a="0.0" aid="30" c="false" group="6" id="23" name="Game end 30" sx="1.0" sy="1.0" x="220" y="368" z="0"/>
+        <actor a="0.0" aid="31" c="false" group="6" id="23" name="Game end 31" sx="1.0" sy="1.0" x="1062" y="355" z="0"/>
+        <actor a="0.0" aid="32" c="false" group="6" id="23" name="Game end 32" sx="1.0" sy="1.0" x="646" y="380" z="0"/>
+        <actor a="0.0" aid="33" c="false" group="0" id="8" name="Player 33" sx="1.0" sy="1.0" x="638" y="836" z="1"/>
+        <actor a="0.0" aid="34" c="false" group="6" id="39" name="Castle4 34" sx="1.0" sy="1.0" x="544" y="0" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="23">
+            <prop id="1" list="0" val="33"/>
+            <prop id="2" list="0" val="0"/>
+            <prop id="3" list="0" val="4"/>
+        </s>
+    </snippets>
+    <terrain/>
+    <atlases members="0,1,2,3," retainAtlases="false"/>
+</scene>

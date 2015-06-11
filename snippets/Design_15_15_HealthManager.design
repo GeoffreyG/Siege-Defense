@@ -657,6 +657,11 @@
                         <die comment="false" x="37" y="70">
                             <ACTOR eid="this" id="0"/>
                         </die>
+                        <scene-change-through comment="false" x="37" y="97">
+                            <SCENE eid="4" id="0"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0.3"/>
+                        </scene-change-through>
                     </group>
                     <lesseq comment="false" id="0" x="0" y="0">
                         <get-val-15-3 comment="false" id="0" x="0" y="0"/>
