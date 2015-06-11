@@ -178,7 +178,10 @@
     </snippet>
     <snippet attachedevent="true" class="scripts.ActorEvents_10" classname="scripts.ActorEvents_10" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="13" name="ActorEvents_10" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
         <blocks/>
-        <events/>
+        <events>
+            <event displayName="Actor - Type" enabled="true" id="1" name="event-collide-actortotype" order="1" repeats="true"/>
+            <event displayName="Enters Screen" enabled="true" id="2" name="event-actor-screen" order="2" repeats="true"/>
+        </events>
     </snippet>
     <snippet attachedevent="false" class="scripts.Design_14_14_ShootAroundtheClock" classname="scripts.Design_14_14_ShootAroundtheClock" desc="Spawn bullets in all directions from the actor's position." description="Spawn bullets in all directions from the actor's position." design="true" drawOrder="0" id="14" name="Shoot Around the Clock" oid="-1" package="scripts" scenespecific="false" shared="false" type="actor">
         <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="0"/>
@@ -274,7 +277,7 @@
         </events>
     </snippet>
     <snippet attachedevent="false" class="scripts.Design_16_16_FireBullet" classname="scripts.Design_16_16_FireBullet" desc="" description="" design="true" drawOrder="0" id="16" name="FireBullet" oid="-1" package="scripts" scenespecific="false" shared="false" type="actor">
-        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="2147483647"/>
+        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="0"/>
         <blocks>
             <receiver blockID="20" id="1"/>
         </blocks>
