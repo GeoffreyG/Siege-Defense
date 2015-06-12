@@ -7,9 +7,6 @@
                     <collide-actor-of-type comment="false" id="0" x="0" y="0"/>
                     <int id="1" val="Hit"/>
                 </shout>
-                <die comment="false" x="26" y="79">
-                    <ACTOR eid="this" id="0"/>
-                </die>
             </group>
             <ACTOR eid="this" id="0"/>
             <ACTORTYPE eid="8" id="1"/>

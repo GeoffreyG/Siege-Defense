@@ -68,30 +68,19 @@ import com.stencyl.graphics.shaders.BloomShader;
 
 
 
-class Design_19_19_DamagePlayer extends ActorScript
+class ActorEvents_91 extends ActorScript
 {          	
 	
  
  	public function new(dummy:Int, actor:Actor, dummy2:Engine)
 	{
 		super(actor);
-		nameMap.set("Actor", "actor");
-
+		
 	}
 	
 	override public function init()
 	{
-		    
-/* ======================== Actor of Type ========================= */
-addCollisionListener(actor, function(event:Collision, list:Array<Dynamic>):Void
-{
-if(wrapper.enabled && sameAsAny(getActorType(8), event.otherActor.getType(),event.otherActor.getGroup()))
-{
-        event.otherActor.shout("_customEvent_" + "Hit");
-        recycleActor(actor);
-}
-});
-
+		
 	}	      	
 	
 	override public function forwardMessage(msg:String)
