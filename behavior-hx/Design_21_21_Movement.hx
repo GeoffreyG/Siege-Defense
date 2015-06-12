@@ -94,28 +94,28 @@ if(wrapper.enabled)
 {
             playSound(_Sound);
             actor.setXVelocity(0);
-            actor.setYVelocity(-15);
+            actor.setYVelocity(-20);
 }
 
         else if(isKeyPressed("down"))
 {
             playSound(_Sound);
             actor.setXVelocity(0);
-            actor.setYVelocity(15);
+            actor.setYVelocity(20);
 }
 
         else if(isKeyPressed("left"))
 {
             playSound(_Sound);
             actor.setYVelocity(0);
-            actor.setXVelocity(-15);
+            actor.setXVelocity(-20);
 }
 
         else if(isKeyPressed("right"))
 {
             playSound(_Sound);
             actor.setYVelocity(0);
-            actor.setXVelocity(15);
+            actor.setXVelocity(20);
 }
 
 }
