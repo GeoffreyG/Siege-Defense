@@ -330,4 +330,28 @@
         <blocks/>
         <events/>
     </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_75" classname="scripts.ActorEvents_75" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="49" name="ActorEvents_75" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_77" classname="scripts.ActorEvents_77" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="50" name="ActorEvents_77" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_79" classname="scripts.ActorEvents_79" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="51" name="ActorEvents_79" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_81" classname="scripts.ActorEvents_81" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="52" name="ActorEvents_81" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_83" classname="scripts.ActorEvents_83" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="53" name="ActorEvents_83" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_85" classname="scripts.ActorEvents_85" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="54" name="ActorEvents_85" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
 </pack>

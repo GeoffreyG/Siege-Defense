@@ -9,23 +9,24 @@
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="50" id="0" name="Transition 2" pts="4,-25.0,-25.0,25.0,-25.0,25.0,25.0,-25.0,25.0" r="64" type="box" w="50" x="640" y="32"/>
+        <region b="64" g="64" h="50" id="0" name="Transition 2" pts="4,-25.0,-25.0,25.0,-25.0,25.0,25.0,-25.0,25.0" r="64" type="box" w="50" x="1121" y="39"/>
     </regions>
     <terrainRegions/>
     <actors>
-        <actor a="0.0" aid="6" c="false" group="5" id="2" name="Bunker Blue 6" sx="1.0" sy="1.0" x="668" y="329" z="1"/>
-        <actor a="0.0" aid="7" c="false" group="5" id="2" name="Bunker Blue 7" sx="1.0" sy="1.0" x="676" y="484" z="1"/>
-        <actor a="0.0" aid="16" c="false" group="5" id="2" name="Bunker Blue 16" sx="1.0" sy="1.0" x="439" y="322" z="1"/>
-        <actor a="0.0" aid="21" c="false" group="5" id="0" name="Female Blue 21" sx="1.0" sy="1.0" x="577" y="345" z="1"/>
-        <actor a="0.0" aid="23" c="false" group="5" id="0" name="Female Blue 23" sx="1.0" sy="1.0" x="297" y="341" z="1"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="157" y="850" z="3"/>
-        <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="640" y="32" z="0"/>
+        <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="1123" y="41" z="0"/>
+        <actor a="0.0" aid="26" c="false" group="6" id="37" name="Castle 3 26" sx="1.0" sy="1.0" x="-58" y="630" z="1"/>
+        <actor a="0.0" aid="27" c="false" group="6" id="33" name="Castle1 27" sx="1.0" sy="1.0" x="67" y="598" z="1"/>
+        <actor a="0.0" aid="28" c="false" group="6" id="33" name="Castle1 28" sx="1.0" sy="1.0" x="43" y="512" z="1"/>
+        <actor a="0.0" aid="29" c="false" group="6" id="33" name="Castle1 29" sx="1.0" sy="1.0" x="-55" y="447" z="1"/>
+        <actor a="0.0" aid="30" c="false" group="6" id="33" name="Castle1 30" sx="1.0" sy="1.0" x="36" y="418" z="1"/>
+        <actor a="0.0" aid="31" c="false" group="5" id="73" name="Fire Demon 31" sx="1.0" sy="1.0" x="344" y="681" z="1"/>
     </actors>
     <snippets>
         <s enabled="true" id="23">
             <prop id="1" list="0" val="24"/>
             <prop id="2" list="0" val="0"/>
-            <prop id="3" list="0" val="2"/>
+            <prop id="3" list="0" val="3"/>
         </s>
         <s enabled="true" id="41">
             <prop id="1" list="0" val="49"/>
