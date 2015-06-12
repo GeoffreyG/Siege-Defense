@@ -8,6 +8,10 @@
                     <int id="0" val="0"/>
                     <get-val-41-1 comment="false" id="1" x="0" y="0"/>
                 </play-sound4>
+                <play-sound4 comment="false" x="46" y="109">
+                    <int id="0" val="0"/>
+                    <get-val-41-2 comment="false" id="1" x="0" y="0"/>
+                </play-sound4>
             </group>
         </init>
     </group>

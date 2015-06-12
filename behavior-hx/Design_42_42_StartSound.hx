@@ -72,13 +72,16 @@ import com.stencyl.graphics.shaders.BloomShader;
 class Design_42_42_StartSound extends SceneScript
 {
 	
-public var _Sound:Sound;
+public var _Sound1:Sound;
+
+public var _Sound2:Sound;
 
  
  	public function new(dummy:Int, dummy2:Engine)
 	{
 		super();
-		nameMap.set("Sound", "_Sound");
+		nameMap.set("Sound1", "_Sound1");
+nameMap.set("Sound2", "_Sound2");
 
 	}
 	
@@ -87,7 +90,8 @@ public var _Sound:Sound;
 		    
 /* ======================== When Creating ========================= */
         stopAllSounds();
-        playSound(_Sound);
+        playSound(_Sound1);
+        playSound(_Sound2);
 
 	}	      	
 	
