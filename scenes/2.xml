@@ -9,19 +9,19 @@
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="50" id="0" name="Transition 3" pts="4,-25.0,-25.0,25.0,-25.0,25.0,25.0,-25.0,25.0" r="64" type="box" w="50" x="1184" y="32"/>
+        <region b="64" g="64" h="50" id="0" name="Transition 3" pts="4,-25.0,25.0,25.0,25.0,25.0,-25.0,-25.0,-25.0" r="64" type="box" w="50" x="1184" y="32"/>
     </regions>
     <terrainRegions/>
     <actors>
         <actor a="0.0" aid="1" c="false" group="5" id="0" name="Female Blue 1" sx="1.0" sy="1.0" x="322" y="202" z="1"/>
         <actor a="0.0" aid="4" c="false" group="5" id="0" name="Female Blue 4" sx="1.0" sy="1.0" x="380" y="112" z="1"/>
-        <actor a="0.0" aid="11" c="false" group="5" id="2" name="Bunker Blue 11" sx="1.0" sy="1.0" x="384" y="224" z="1"/>
-        <actor a="0.0" aid="12" c="false" group="5" id="2" name="Bunker Blue 12" sx="1.0" sy="1.0" x="384" y="288" z="1"/>
-        <actor a="0.0" aid="14" c="false" group="5" id="2" name="Bunker Blue 14" sx="1.0" sy="1.0" x="224" y="160" z="1"/>
-        <actor a="0.0" aid="15" c="false" group="5" id="2" name="Bunker Blue 15" sx="1.0" sy="1.0" x="384" y="160" z="1"/>
-        <actor a="0.0" aid="17" c="false" group="5" id="2" name="Bunker Blue 17" sx="1.0" sy="1.0" x="160" y="160" z="1"/>
-        <actor a="0.0" aid="18" c="false" group="5" id="0" name="Female Blue 18" sx="1.0" sy="1.0" x="591" y="150" z="1"/>
-        <actor a="0.0" aid="19" c="false" group="5" id="0" name="Female Blue 19" sx="1.0" sy="1.0" x="503" y="235" z="1"/>
+        <actor a="0.0" aid="11" c="false" group="5" id="2" name="Bunker Blue 11" sx="1.0" sy="1.0" x="808" y="360" z="1"/>
+        <actor a="0.0" aid="12" c="false" group="5" id="2" name="Bunker Blue 12" sx="1.0" sy="1.0" x="1028" y="364" z="1"/>
+        <actor a="0.0" aid="14" c="false" group="5" id="2" name="Bunker Blue 14" sx="1.0" sy="1.0" x="571" y="567" z="1"/>
+        <actor a="0.0" aid="15" c="false" group="5" id="2" name="Bunker Blue 15" sx="1.0" sy="1.0" x="795" y="20" z="1"/>
+        <actor a="0.0" aid="17" c="false" group="5" id="2" name="Bunker Blue 17" sx="1.0" sy="1.0" x="319" y="358" z="1"/>
+        <actor a="0.0" aid="18" c="false" group="5" id="0" name="Female Blue 18" sx="1.0" sy="1.0" x="821" y="180" z="1"/>
+        <actor a="0.0" aid="19" c="false" group="5" id="0" name="Female Blue 19" sx="1.0" sy="1.0" x="935" y="379" z="1"/>
         <actor a="0.0" aid="20" c="false" group="5" id="0" name="Female Blue 20" sx="1.0" sy="1.0" x="254" y="56" z="1"/>
         <actor a="0.0" aid="21" c="false" group="5" id="0" name="Female Blue 21" sx="1.0" sy="1.0" x="86" y="64" z="1"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="608" y="852" z="3"/>

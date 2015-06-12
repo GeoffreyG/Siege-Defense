@@ -9,21 +9,15 @@
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="50" id="0" name="Transition 2" pts="4,-25.0,25.0,25.0,25.0,25.0,-25.0,-25.0,-25.0" r="64" type="box" w="50" x="640" y="32"/>
+        <region b="64" g="64" h="50" id="0" name="Transition 2" pts="4,-25.0,-25.0,25.0,-25.0,25.0,25.0,-25.0,25.0" r="64" type="box" w="50" x="640" y="32"/>
     </regions>
     <terrainRegions/>
     <actors>
-        <actor a="0.0" aid="6" c="false" group="5" id="2" name="Bunker Blue 6" sx="1.0" sy="1.0" x="384" y="288" z="1"/>
-        <actor a="0.0" aid="7" c="false" group="5" id="2" name="Bunker Blue 7" sx="1.0" sy="1.0" x="448" y="288" z="1"/>
-        <actor a="0.0" aid="12" c="false" group="5" id="2" name="Bunker Blue 12" sx="1.0" sy="1.0" x="256" y="256" z="1"/>
-        <actor a="0.0" aid="13" c="false" group="5" id="2" name="Bunker Blue 13" sx="1.0" sy="1.0" x="192" y="224" z="1"/>
-        <actor a="0.0" aid="15" c="false" group="5" id="2" name="Bunker Blue 15" sx="1.0" sy="1.0" x="192" y="160" z="1"/>
-        <actor a="0.0" aid="16" c="false" group="5" id="2" name="Bunker Blue 16" sx="1.0" sy="1.0" x="320" y="288" z="1"/>
-        <actor a="0.0" aid="17" c="false" group="5" id="2" name="Bunker Blue 17" sx="1.0" sy="1.0" x="192" y="96" z="1"/>
-        <actor a="0.0" aid="19" c="false" group="5" id="0" name="Female Blue 19" sx="1.0" sy="1.0" x="371" y="117" z="1"/>
-        <actor a="0.0" aid="21" c="false" group="5" id="0" name="Female Blue 21" sx="1.0" sy="1.0" x="207" y="38" z="1"/>
-        <actor a="0.0" aid="22" c="false" group="5" id="0" name="Female Blue 22" sx="1.0" sy="1.0" x="108" y="261" z="1"/>
-        <actor a="0.0" aid="23" c="false" group="5" id="0" name="Female Blue 23" sx="1.0" sy="1.0" x="200" y="369" z="1"/>
+        <actor a="0.0" aid="6" c="false" group="5" id="2" name="Bunker Blue 6" sx="1.0" sy="1.0" x="668" y="329" z="1"/>
+        <actor a="0.0" aid="7" c="false" group="5" id="2" name="Bunker Blue 7" sx="1.0" sy="1.0" x="676" y="484" z="1"/>
+        <actor a="0.0" aid="16" c="false" group="5" id="2" name="Bunker Blue 16" sx="1.0" sy="1.0" x="439" y="322" z="1"/>
+        <actor a="0.0" aid="21" c="false" group="5" id="0" name="Female Blue 21" sx="1.0" sy="1.0" x="577" y="345" z="1"/>
+        <actor a="0.0" aid="23" c="false" group="5" id="0" name="Female Blue 23" sx="1.0" sy="1.0" x="297" y="341" z="1"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="157" y="850" z="3"/>
         <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="640" y="32" z="0"/>
     </actors>

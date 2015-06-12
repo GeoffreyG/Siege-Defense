@@ -9,19 +9,14 @@
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="50" id="0" name="Transition 1" pts="4,-25.0,-25.0,25.0,-25.0,25.0,25.0,-25.0,25.0" r="64" type="box" w="50" x="168" y="19"/>
+        <region b="64" g="64" h="50" id="0" name="Transition 1" pts="4,-25.0,25.0,25.0,25.0,25.0,-25.0,-25.0,-25.0" r="64" type="box" w="50" x="168" y="19"/>
     </regions>
     <terrainRegions/>
     <actors>
-        <actor a="0.0" aid="16" c="false" group="5" id="2" name="Bunker Blue 16" sx="1.0" sy="1.0" x="603" y="176" z="1"/>
-        <actor a="0.0" aid="19" c="false" group="5" id="0" name="Female Blue 19" sx="1.0" sy="1.0" x="519" y="62" z="1"/>
-        <actor a="0.0" aid="20" c="false" group="5" id="0" name="Female Blue 20" sx="1.0" sy="1.0" x="638" y="129" z="1"/>
-        <actor a="0.0" aid="7" c="false" group="5" id="2" name="Bunker Blue 7" sx="1.0" sy="1.0" x="388" y="271" z="1"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="1149" y="856" z="3"/>
         <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="172" y="22" z="0"/>
-        <actor a="0.0" aid="10" c="false" group="5" id="2" name="Bunker Blue 10" sx="1.0" sy="1.0" x="390" y="223" z="1"/>
-        <actor a="0.0" aid="11" c="false" group="5" id="2" name="Bunker Blue 11" sx="1.0" sy="1.0" x="528" y="176" z="1"/>
-        <actor a="0.0" aid="12" c="false" group="5" id="2" name="Bunker Blue 12" sx="1.0" sy="1.0" x="456" y="177" z="1"/>
+        <actor a="0.0" aid="27" c="false" group="5" id="73" name="Fire Demon 27" sx="1.0" sy="1.0" x="216" y="154" z="1"/>
+        <actor a="0.0" aid="28" c="false" group="5" id="71" name="Oni 28" sx="1.0" sy="1.0" x="692" y="450" z="1"/>
     </actors>
     <snippets>
         <s enabled="true" id="23">

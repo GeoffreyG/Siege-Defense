@@ -8,19 +8,16 @@
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="180" id="0" name="Region 0" pts="4,-90.0,-90.0,90.0,-90.0,90.0,90.0,-90.0,90.0" r="64" type="box" w="180" x="584" y="37"/>
-        <region b="64" g="64" h="185" id="1" name="Region 1" pts="4,0.0,0.0,0.0,185.0,205.0,185.0,205.0,0.0" r="64" type="box" w="205" x="285" y="257"/>
-        <region b="64" g="64" h="192" id="2" name="Region 2" pts="4,0.0,0.0,0.0,192.0,223.0,192.0,223.0,0.0" r="64" type="box" w="223" x="825" y="250"/>
+        <region b="64" g="64" h="180" id="0" name="Region 0" pts="4,-90.0,90.0,90.0,90.0,90.0,-90.0,-90.0,-90.0" r="64" type="box" w="180" x="584" y="37"/>
+        <region b="64" g="64" h="185" id="1" name="Region 1" pts="4,205.0,0.0,205.0,185.0,0.0,185.0,0.0,0.0" r="64" type="box" w="205" x="285" y="257"/>
+        <region b="64" g="64" h="192" id="2" name="Region 2" pts="4,223.0,0.0,223.0,192.0,0.0,192.0,0.0,0.0" r="64" type="box" w="223" x="825" y="250"/>
     </regions>
     <terrainRegions/>
     <actors>
         <actor a="0.0" aid="33" c="false" group="0" id="8" name="Player 33" sx="1.0" sy="1.0" x="638" y="836" z="1"/>
-        <actor a="0.0" aid="34" c="false" group="6" id="39" name="Castle4 34" sx="1.0" sy="1.0" x="544" y="-20" z="0"/>
         <actor a="0.0" aid="35" c="false" group="6" id="53" name="Transformers 35" sx="0.85333335" sy="0.9041096" x="309" y="273" z="0"/>
         <actor a="0.0" aid="36" c="false" group="6" id="55" name="RK 36" sx="0.5522388" sy="0.5744681" x="808" y="253" z="0"/>
         <actor a="0.0" aid="5" c="false" group="6" id="25" name="Diamonds 5" sx="1.0" sy="1.0" x="365" y="424" z="0"/>
-        <actor a="0.0" aid="37" c="false" group="6" id="33" name="Castle1 37" sx="1.0" sy="1.0" x="643" y="-39" z="0"/>
-        <actor a="0.0" aid="38" c="false" group="6" id="33" name="Castle1 38" sx="1.0" sy="1.0" x="445" y="-35" z="0"/>
         <actor a="0.0" aid="8" c="false" group="6" id="25" name="Diamonds 8" sx="1.0" sy="1.0" x="364" y="234" z="0"/>
         <actor a="0.0" aid="9" c="false" group="6" id="25" name="Diamonds 9" sx="1.0" sy="1.0" x="466" y="329" z="0"/>
         <actor a="0.0" aid="10" c="false" group="6" id="25" name="Diamonds 10" sx="1.0" sy="1.0" x="269" y="334" z="0"/>
