@@ -2,14 +2,14 @@
 <scene depth="3" desc="" eventsnippetid="25" extheight="1024" extwidth="1344" extx="-32" exty="-32" format="3.3.0" gravx="-0.0" gravy="0.0" height="960" id="2" name="Level 3" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1280">
     <layers>
         <color-bg blue="204" green="255" red="204"/>
-        <background blendMode="normal" customScrollFactor="false" id="4" locked="true" name="White" opacity="100" order="3" rid="70" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <background blendMode="normal" customScrollFactor="false" id="5" locked="true" name="Yellow" opacity="100" order="3" rid="68" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
         <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Background" opacity="100" order="2" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
         <layer blendMode="normal" color="0,255,0" id="1" locked="false" name="Enemies" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
         <layer blendMode="normal" color="255,0,255" id="3" locked="false" name="Player" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="50" id="0" name="Transition 3" pts="4,-25.0,25.0,25.0,25.0,25.0,-25.0,-25.0,-25.0" r="64" type="box" w="50" x="1184" y="32"/>
+        <region b="64" g="64" h="50" id="0" name="Transition 3" pts="4,-25.0,-25.0,25.0,-25.0,25.0,25.0,-25.0,25.0" r="64" type="box" w="50" x="1184" y="32"/>
     </regions>
     <terrainRegions/>
     <actors>
