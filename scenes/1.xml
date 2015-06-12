@@ -13,11 +13,17 @@
     </regions>
     <terrainRegions/>
     <actors>
+        <actor a="0.0" aid="32" c="false" group="6" id="77" name="Wall1 32" sx="1.0" sy="1.0" x="416" y="608" z="1"/>
+        <actor a="0.0" aid="33" c="false" group="6" id="77" name="Wall1 33" sx="1.0" sy="1.0" x="416" y="544" z="1"/>
+        <actor a="0.0" aid="34" c="false" group="6" id="77" name="Wall1 34" sx="1.0" sy="1.0" x="416" y="480" z="1"/>
+        <actor a="0.0" aid="35" c="false" group="6" id="77" name="Wall1 35" sx="1.0" sy="1.0" x="416" y="416" z="1"/>
+        <actor a="0.0" aid="36" c="false" group="5" id="71" name="Oni 36" sx="1.0" sy="1.0" x="127" y="209" z="1"/>
+        <actor a="0.0" aid="37" c="false" group="6" id="33" name="Castle1 37" sx="1.0" sy="1.0" x="-66" y="353" z="1"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="157" y="850" z="3"/>
         <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="1123" y="41" z="0"/>
         <actor a="0.0" aid="26" c="false" group="6" id="37" name="Castle 3 26" sx="1.0" sy="1.0" x="-58" y="630" z="1"/>
         <actor a="0.0" aid="27" c="false" group="6" id="33" name="Castle1 27" sx="1.0" sy="1.0" x="67" y="598" z="1"/>
-        <actor a="0.0" aid="28" c="false" group="6" id="33" name="Castle1 28" sx="1.0" sy="1.0" x="43" y="512" z="1"/>
+        <actor a="0.0" aid="28" c="false" group="6" id="33" name="Castle1 28" sx="1.0" sy="1.0" x="37" y="518" z="1"/>
         <actor a="0.0" aid="29" c="false" group="6" id="33" name="Castle1 29" sx="1.0" sy="1.0" x="-55" y="447" z="1"/>
         <actor a="0.0" aid="30" c="false" group="6" id="33" name="Castle1 30" sx="1.0" sy="1.0" x="36" y="418" z="1"/>
         <actor a="0.0" aid="31" c="false" group="5" id="73" name="Fire Demon 31" sx="1.0" sy="1.0" x="344" y="681" z="1"/>
