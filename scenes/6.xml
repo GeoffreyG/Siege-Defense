@@ -9,11 +9,7 @@
     <regions/>
     <terrainRegions/>
     <actors/>
-    <snippets>
-        <s enabled="true" id="44">
-            <prop id="4" list="0" val="59"/>
-        </s>
-    </snippets>
+    <snippets/>
     <terrain/>
     <atlases members="0,1,2,3," retainAtlases="false"/>
 </scene>
