@@ -32,6 +32,9 @@
             <prop id="2" list="0" val="0"/>
             <prop id="3" list="0" val="3"/>
         </s>
+        <s enabled="true" id="41">
+            <prop id="1" list="0" val="50"/>
+        </s>
     </snippets>
     <terrain/>
     <atlases members="" retainAtlases="true"/>
