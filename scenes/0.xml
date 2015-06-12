@@ -17,18 +17,13 @@
         <actor a="0.0" aid="65" c="false" group="6" id="77" name="Wall1 65" sx="1.0" sy="1.0" x="864" y="800" z="1"/>
         <actor a="0.0" aid="67" c="false" group="6" id="77" name="Wall1 67" sx="1.0" sy="1.0" x="864" y="864" z="1"/>
         <actor a="0.0" aid="68" c="false" group="6" id="77" name="Wall1 68" sx="1.0" sy="1.0" x="864" y="672" z="1"/>
-        <actor a="0.0" aid="69" c="false" group="6" id="35" name="Castle2 69" sx="1.0" sy="1.0" x="500" y="51" z="3"/>
-        <actor a="0.0" aid="71" c="false" group="6" id="33" name="Castle1 71" sx="1.0" sy="1.0" x="464" y="-69" z="3"/>
-        <actor a="0.0" aid="72" c="false" group="6" id="33" name="Castle1 72" sx="1.0" sy="1.0" x="581" y="-31" z="3"/>
-        <actor a="0.0" aid="73" c="false" group="6" id="33" name="Castle1 73" sx="1.0" sy="1.0" x="547" y="-120" z="3"/>
-        <actor a="0.0" aid="74" c="false" group="6" id="33" name="Castle1 74" sx="1.0" sy="1.0" x="-8" y="717" z="3"/>
-        <actor a="0.0" aid="75" c="false" group="6" id="33" name="Castle1 75" sx="1.0" sy="1.0" x="395" y="26" z="3"/>
-        <actor a="0.0" aid="76" c="false" group="6" id="33" name="Castle1 76" sx="1.0" sy="1.0" x="358" y="-102" z="3"/>
         <actor a="0.0" aid="77" c="false" group="5" id="85" name="Samurai 77" sx="1.0" sy="1.0" x="1008" y="534" z="1"/>
         <actor a="0.0" aid="78" c="false" group="5" id="85" name="Samurai 78" sx="1.0" sy="1.0" x="847" y="226" z="1"/>
         <actor a="0.0" aid="79" c="false" group="5" id="85" name="Samurai 79" sx="1.0" sy="1.0" x="137" y="636" z="1"/>
         <actor a="0.0" aid="80" c="false" group="5" id="2" name="Bunker Blue 80" sx="1.0" sy="1.0" x="603" y="413" z="3"/>
         <actor a="0.0" aid="81" c="false" group="5" id="2" name="Bunker Blue 81" sx="1.0" sy="1.0" x="172" y="315" z="3"/>
+        <actor a="0.0" aid="82" c="false" group="3" id="87" name="Bun House 82" sx="1.0" sy="1.0" x="204" y="-149" z="3"/>
+        <actor a="0.0" aid="83" c="false" group="3" id="87" name="Bun House 83" sx="1.0" sy="1.0" x="116" y="-279" z="3"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="1149" y="856" z="3"/>
         <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="172" y="22" z="0"/>
         <actor a="0.0" aid="29" c="false" group="6" id="77" name="Wall1 29" sx="1.0" sy="1.0" x="1056" y="864" z="0"/>

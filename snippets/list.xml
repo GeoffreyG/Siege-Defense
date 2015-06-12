@@ -354,4 +354,20 @@
         <blocks/>
         <events/>
     </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_87" classname="scripts.ActorEvents_87" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="55" name="ActorEvents_87" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_89" classname="scripts.ActorEvents_89" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="56" name="ActorEvents_89" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_91" classname="scripts.ActorEvents_91" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="57" name="ActorEvents_91" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_93" classname="scripts.ActorEvents_93" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="58" name="ActorEvents_93" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
 </pack>

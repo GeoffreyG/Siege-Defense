@@ -9,25 +9,23 @@
     </layers>
     <joints/>
     <regions>
-        <region b="64" g="64" h="50" id="0" name="Transition 2" pts="4,-25.0,-25.0,25.0,-25.0,25.0,25.0,-25.0,25.0" r="64" type="box" w="50" x="1121" y="39"/>
+        <region b="64" g="64" h="50" id="0" name="Transition 2" pts="4,-25.0,25.0,25.0,25.0,25.0,-25.0,-25.0,-25.0" r="64" type="box" w="50" x="1121" y="39"/>
     </regions>
     <terrainRegions/>
     <actors>
         <actor a="0.0" aid="65" c="false" group="5" id="2" name="Bunker Blue 65" sx="1.0" sy="1.0" x="699" y="327" z="1"/>
-        <actor a="0.0" aid="66" c="false" group="5" id="2" name="Bunker Blue 66" sx="1.0" sy="1.0" x="272" y="-135" z="3"/>
+        <actor a="0.0" aid="66" c="false" group="5" id="2" name="Bunker Blue 66" sx="1.0" sy="1.0" x="307" y="-89" z="3"/>
+        <actor a="0.0" aid="67" c="false" group="3" id="87" name="Bun House 67" sx="1.0" sy="1.0" x="-304" y="391" z="1"/>
+        <actor a="0.0" aid="68" c="false" group="3" id="87" name="Bun House 68" sx="1.0" sy="1.0" x="179" y="-274" z="3"/>
+        <actor a="0.0" aid="69" c="false" group="3" id="87" name="Bun House 69" sx="1.0" sy="1.0" x="667" y="-9" z="3"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="157" y="850" z="3"/>
         <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="1123" y="41" z="0"/>
-        <actor a="0.0" aid="26" c="false" group="6" id="37" name="Castle 3 26" sx="1.0" sy="1.0" x="-58" y="630" z="1"/>
-        <actor a="0.0" aid="27" c="false" group="6" id="33" name="Castle1 27" sx="1.0" sy="1.0" x="67" y="598" z="1"/>
         <actor a="0.0" aid="31" c="false" group="5" id="73" name="Fire Demon 31" sx="1.0" sy="1.0" x="344" y="681" z="1"/>
         <actor a="0.0" aid="32" c="false" group="6" id="77" name="Wall1 32" sx="1.0" sy="1.0" x="416" y="608" z="1"/>
         <actor a="0.0" aid="33" c="false" group="6" id="77" name="Wall1 33" sx="1.0" sy="1.0" x="416" y="544" z="1"/>
         <actor a="0.0" aid="34" c="false" group="6" id="77" name="Wall1 34" sx="1.0" sy="1.0" x="416" y="480" z="1"/>
         <actor a="0.0" aid="35" c="false" group="6" id="77" name="Wall1 35" sx="1.0" sy="1.0" x="416" y="416" z="1"/>
         <actor a="0.0" aid="36" c="false" group="5" id="71" name="Oni 36" sx="1.0" sy="1.0" x="127" y="209" z="1"/>
-        <actor a="0.0" aid="38" c="false" group="6" id="37" name="Castle 3 38" sx="1.0" sy="1.0" x="361" y="-35" z="3"/>
-        <actor a="0.0" aid="41" c="false" group="6" id="33" name="Castle1 41" sx="1.0" sy="1.0" x="234" y="-93" z="3"/>
-        <actor a="0.0" aid="42" c="false" group="6" id="33" name="Castle1 42" sx="1.0" sy="1.0" x="265" y="10" z="3"/>
         <actor a="0.0" aid="44" c="false" group="5" id="85" name="Samurai 44" sx="1.0" sy="1.0" x="659" y="369" z="3"/>
         <actor a="0.0" aid="45" c="false" group="6" id="77" name="Wall1 45" sx="1.0" sy="1.0" x="672" y="480" z="3"/>
         <actor a="0.0" aid="46" c="false" group="6" id="77" name="Wall1 46" sx="1.0" sy="1.0" x="672" y="544" z="3"/>
@@ -39,12 +37,6 @@
         <actor a="0.0" aid="52" c="false" group="6" id="77" name="Wall1 52" sx="1.0" sy="1.0" x="960" y="544" z="3"/>
         <actor a="0.0" aid="53" c="false" group="6" id="77" name="Wall1 53" sx="1.0" sy="1.0" x="960" y="480" z="3"/>
         <actor a="0.0" aid="54" c="false" group="6" id="77" name="Wall1 54" sx="1.0" sy="1.0" x="960" y="416" z="3"/>
-        <actor a="0.0" aid="56" c="false" group="6" id="37" name="Castle 3 56" sx="1.0" sy="1.0" x="960" y="160" z="3"/>
-        <actor a="0.0" aid="57" c="false" group="6" id="33" name="Castle1 57" sx="1.0" sy="1.0" x="1061" y="122" z="3"/>
-        <actor a="0.0" aid="58" c="false" group="6" id="33" name="Castle1 58" sx="1.0" sy="1.0" x="1061" y="242" z="3"/>
-        <actor a="0.0" aid="59" c="false" group="6" id="33" name="Castle1 59" sx="1.0" sy="1.0" x="952" y="259" z="3"/>
-        <actor a="0.0" aid="60" c="false" group="6" id="33" name="Castle1 60" sx="1.0" sy="1.0" x="861" y="111" z="3"/>
-        <actor a="0.0" aid="62" c="false" group="6" id="33" name="Castle1 62" sx="1.0" sy="1.0" x="850" y="208" z="3"/>
         <actor a="0.0" aid="63" c="false" group="5" id="2" name="Bunker Blue 63" sx="1.0" sy="1.0" x="-261" y="227" z="1"/>
     </actors>
     <snippets>
