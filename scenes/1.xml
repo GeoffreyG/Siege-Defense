@@ -15,9 +15,9 @@
     <actors>
         <actor a="0.0" aid="65" c="false" group="5" id="2" name="Bunker Blue 65" sx="1.0" sy="1.0" x="699" y="327" z="1"/>
         <actor a="0.0" aid="66" c="false" group="5" id="2" name="Bunker Blue 66" sx="1.0" sy="1.0" x="307" y="-89" z="3"/>
-        <actor a="0.0" aid="67" c="false" group="3" id="87" name="Bun House 67" sx="1.0" sy="1.0" x="-304" y="391" z="1"/>
-        <actor a="0.0" aid="68" c="false" group="3" id="87" name="Bun House 68" sx="1.0" sy="1.0" x="179" y="-274" z="3"/>
-        <actor a="0.0" aid="69" c="false" group="3" id="87" name="Bun House 69" sx="1.0" sy="1.0" x="667" y="-9" z="3"/>
+        <actor a="0.0" aid="67" c="false" group="6" id="87" name="Bun House 67" sx="1.0" sy="1.0" x="-304" y="391" z="1"/>
+        <actor a="0.0" aid="68" c="false" group="6" id="87" name="Bun House 68" sx="1.0" sy="1.0" x="179" y="-274" z="3"/>
+        <actor a="0.0" aid="69" c="false" group="6" id="87" name="Bun House 69" sx="1.0" sy="1.0" x="667" y="-9" z="3"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="157" y="850" z="3"/>
         <actor a="0.0" aid="25" c="false" group="6" id="21" name="Level End 25" sx="1.0" sy="1.0" x="1123" y="41" z="0"/>
         <actor a="0.0" aid="31" c="false" group="5" id="73" name="Fire Demon 31" sx="1.0" sy="1.0" x="344" y="681" z="1"/>

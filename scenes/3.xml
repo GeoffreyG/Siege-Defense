@@ -14,10 +14,10 @@
     <terrainRegions/>
     <actors>
         <actor a="0.0" aid="47" c="false" group="5" id="75" name="Dragon 47" sx="1.0" sy="1.0" x="646" y="321" z="3"/>
-        <actor a="0.0" aid="48" c="false" group="3" id="89" name="Castle Not flat 48" sx="1.0" sy="1.0" x="-119" y="-141" z="3"/>
-        <actor a="0.0" aid="49" c="false" group="3" id="87" name="Bun House 49" sx="1.0" sy="1.0" x="378" y="498" z="3"/>
-        <actor a="0.0" aid="50" c="false" group="3" id="87" name="Bun House 50" sx="1.0" sy="1.0" x="573" y="70" z="3"/>
-        <actor a="0.0" aid="51" c="false" group="3" id="87" name="Bun House 51" sx="1.0" sy="1.0" x="-207" y="293" z="3"/>
+        <actor a="0.0" aid="48" c="false" group="6" id="89" name="Castle Not flat 48" sx="1.0" sy="1.0" x="-119" y="-141" z="3"/>
+        <actor a="0.0" aid="49" c="false" group="6" id="87" name="Bun House 49" sx="1.0" sy="1.0" x="378" y="498" z="3"/>
+        <actor a="0.0" aid="50" c="false" group="6" id="87" name="Bun House 50" sx="1.0" sy="1.0" x="573" y="70" z="3"/>
+        <actor a="0.0" aid="51" c="false" group="6" id="87" name="Bun House 51" sx="1.0" sy="1.0" x="-207" y="293" z="3"/>
         <actor a="0.0" aid="24" c="false" group="0" id="8" name="Player 24" sx="1.0" sy="1.0" x="1152" y="832" z="3"/>
         <actor a="0.0" aid="25" c="false" group="6" id="23" name="Game end 25" sx="1.0" sy="1.0" x="640" y="480" z="0"/>
         <actor a="0.0" aid="27" c="false" group="5" id="75" name="Dragon 27" sx="1.0" sy="1.0" x="545" y="-91" z="3"/>

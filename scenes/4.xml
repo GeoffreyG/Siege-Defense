@@ -14,13 +14,13 @@
     <actors>
         <actor a="0.0" aid="21" c="false" group="0" id="8" name="Player 21" sx="1.0" sy="1.0" x="729" y="791" z="1"/>
         <actor a="0.0" aid="22" c="false" group="6" id="41" name="Start Icon 22" sx="2.4" sy="2.35" x="759" y="434" z="0"/>
-        <actor a="0.0" aid="30" c="false" group="3" id="87" name="Bun House 30" sx="1.0" sy="1.0" x="58" y="357" z="0"/>
-        <actor a="0.0" aid="31" c="false" group="3" id="87" name="Bun House 31" sx="1.0" sy="1.0" x="-115" y="297" z="0"/>
-        <actor a="0.0" aid="32" c="false" group="3" id="87" name="Bun House 32" sx="1.0" sy="1.0" x="743" y="289" z="0"/>
-        <actor a="0.0" aid="33" c="false" group="3" id="87" name="Bun House 33" sx="1.0" sy="1.0" x="740" y="114" z="0"/>
-        <actor a="0.0" aid="34" c="false" group="3" id="89" name="Castle Not flat 34" sx="1.0" sy="1.0" x="41" y="104" z="0"/>
-        <actor a="0.0" aid="35" c="false" group="3" id="87" name="Bun House 35" sx="1.0" sy="1.0" x="213" y="262" z="0"/>
-        <actor a="0.0" aid="36" c="false" group="3" id="91" name="portal 36" sx="1.0" sy="1.0" x="568" y="435" z="0"/>
+        <actor a="0.0" aid="30" c="false" group="6" id="87" name="Bun House 30" sx="1.0" sy="1.0" x="58" y="357" z="0"/>
+        <actor a="0.0" aid="31" c="false" group="6" id="87" name="Bun House 31" sx="1.0" sy="1.0" x="-115" y="297" z="0"/>
+        <actor a="0.0" aid="32" c="false" group="6" id="87" name="Bun House 32" sx="1.0" sy="1.0" x="743" y="289" z="0"/>
+        <actor a="0.0" aid="33" c="false" group="6" id="87" name="Bun House 33" sx="1.0" sy="1.0" x="740" y="114" z="0"/>
+        <actor a="0.0" aid="34" c="false" group="6" id="89" name="Castle Not flat 34" sx="1.0" sy="1.0" x="41" y="104" z="0"/>
+        <actor a="0.0" aid="35" c="false" group="6" id="87" name="Bun House 35" sx="1.0" sy="1.0" x="213" y="262" z="0"/>
+        <actor a="0.0" aid="36" c="false" group="6" id="91" name="portal 36" sx="1.0" sy="1.0" x="568" y="435" z="0"/>
     </actors>
     <snippets>
         <s enabled="true" id="23">

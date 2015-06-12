@@ -12,7 +12,7 @@
             <poly data="4,0,0,12,0,12,12,0,12" density="0.1" fric="0.2" gid="-1000" id="0" name="Box" rest="0.0" sensor="false"/>
         </anim>
     </sprite>
-    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="55" fixedrot="false" fric="0.2" gid="3" id="87" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Bun House" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="88" static="false">
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="55" fixedrot="true" fric="0.2" gid="6" id="87" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Bun House" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="88" static="true">
         <snippets/>
     </actor>
     <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="780" id="88" name="Bun House" shared="false" width="780">
@@ -40,7 +40,7 @@
             <poly data="4,62,40,192,40,192,210,62,210" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
         </anim>
     </sprite>
-    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="56" fixedrot="false" fric="0.2" gid="3" id="89" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Castle Not flat" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="90" static="false">
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="56" fixedrot="false" fric="0.2" gid="6" id="89" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Castle Not flat" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="90" static="true">
         <snippets/>
     </actor>
     <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="780" id="90" name="Castle Not flat" shared="false" width="780">
@@ -386,7 +386,7 @@
             </s>
         </snippets>
     </actor>
-    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="57" fixedrot="false" fric="0.2" gid="3" id="91" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="portal" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="92" static="false">
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="57" fixedrot="false" fric="0.2" gid="6" id="91" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="portal" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="92" static="true">
         <snippets/>
     </actor>
     <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="780" id="92" name="portal" shared="false" width="780">
@@ -488,7 +488,7 @@
             <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
         </anim>
     </sprite>
-    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="58" fixedrot="false" fric="0.2" gid="3" id="93" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Yami" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="94" static="false">
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="58" fixedrot="false" fric="0.2" gid="6" id="93" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Yami" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="94" static="true">
         <snippets/>
     </actor>
     <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="780" id="94" name="Yami" shared="false" width="780">
